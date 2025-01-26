@@ -1,0 +1,17 @@
+BasicEff.img
+Direction1.img
+SkillName3.img
+ItemEff.img
+Direction2.img
+Direction.img
+SkillName2.img
+Tomb.img
+Summon.img
+PetEff.img
+MapEff.img
+SkillName1.img
+SetEff.img
+CharacterEff.img
+SkillName4.img
+OnUserEff.img
+Direction3.img

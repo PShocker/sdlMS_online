@@ -1,0 +1,15 @@
+axe.img
+gun.img
+mace.img
+swordOS.img
+crossBow.img
+blank.img
+barehands.img
+swordTL.img
+bow.img
+spear.img
+knuckle.img
+swordOL.img
+hit.img
+swordTS.img
+poleArm.img
