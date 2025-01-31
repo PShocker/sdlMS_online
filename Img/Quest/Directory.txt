@@ -1,0 +1,6 @@
+QuestInfo.img
+Say.img
+Exclusive.img
+PQuest.img
+Check.img
+Act.img
